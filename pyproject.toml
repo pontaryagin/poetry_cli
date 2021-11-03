@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tmp3"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["pontaryagin <ponta1496@gmail.com>"]
 
